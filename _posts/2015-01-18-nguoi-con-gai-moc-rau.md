@@ -5,5 +5,5 @@ title: Tặng người con gái mọc râu
 tags: [thơ]
 ---
 
-Đêm về trằn trọc canh thâu,\s\s
+Đêm về trằn trọc canh thâu, 
 Nhớ người con gái mọc râu đầy mồm...
