@@ -25,4 +25,4 @@ Cũng không muốn lại hỏi, lại nói, lại tiếp tục cầu xin giấc
   
 Ôi giấc mơ của anh  
 
-< iframe title="Lâm Chí Huyền - Đêm từng đêm" width="480" height="390" src="https://www.youtube.com/watch?v=SC4RbzHErco" frameborder="0" allowfullscreen>< /iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/SC4RbzHErco" frameborder="0" allowfullscreen></iframe>
