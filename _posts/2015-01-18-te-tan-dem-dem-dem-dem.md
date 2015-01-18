@@ -24,6 +24,6 @@ Anh không muốn tiếp tục buông xuôi như thế nữa.
 Cũng không muốn từng ngày, từng đêm, từng phút cứ phiêu bạt trôi nổi  
 Cũng không muốn lại hỏi, lại nói, lại tiếp tục cầu xin giấc mơ của mình  
   
-Ôi giấc mơ của anh  
+Ôi giấc mơ của anh...  
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/SC4RbzHErco" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/BVMO6teByVs" frameborder="0" allowfullscreen></iframe>
