@@ -2,7 +2,6 @@
 layout: post
 comments: yes
 title: Đêm Đêm Đêm Đêm - Tề Tần
-description: Em cũng không cần tiếp tục miễn cưỡng nói yêu anh. <br/>Dù sao thì linh hồn anh cũng đã tan thành từng mảnh rồi...
 tags: [nhạc]
 ---
 
