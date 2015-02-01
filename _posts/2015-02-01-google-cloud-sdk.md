@@ -6,7 +6,7 @@ description: Google Cloud SDK chứa các công cụ và thư viện cho phép c
 tags: [google,cloud,sdk, zsh]
 ---
 
-Google Cloud SDK chứa các công cụ và thư viện cho phép chúng ta dễ dàng tạo và quản lý tài nguyên trên Google Cloud Flatform: https://cloud.google.com/sdk/ 
+Google Cloud SDK chứa các công cụ và thư viện cho phép chúng ta dễ dàng tạo và quản lý tài nguyên trên Google Cloud Flatform https://cloud.google.com/sdk/ 
 
 Cài đặt trên Linux / Mac OS:
 {% highlight bash %}
