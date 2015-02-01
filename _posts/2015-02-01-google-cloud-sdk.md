@@ -31,7 +31,7 @@ source '/path/to/google-cloud-sdk/path.zsh.inc'
 source '/path/to/google-cloud-sdk/completion.zsh.inc'
 {% endhighlight %}
 
-Nếu có dùng Oh-my-zsh thì phải đưa đoạn update PATH lên trước dòng lệnh: {% ihighlight bash %}source $ZSH/oh-my-zsh.sh{% endihighlight %}
+Nếu có dùng Oh-my-zsh thì phải đưa đoạn update PATH lên trước dòng lệnh: source $ZSH/oh-my-zsh.sh
 {% highlight bash %}
 # The next line updates PATH for the Google Cloud SDK.
 source '/Users/thiendev1337/google-cloud-sdk/path.zsh.inc'
