@@ -5,8 +5,6 @@ title: Soldier Of Fortune - Deep Purple
 tags: [nhạc]
 ---
 
-Soldier of Fortune - Deep Purple
-
 /**  
 I have often told you stories  
 About the way  
